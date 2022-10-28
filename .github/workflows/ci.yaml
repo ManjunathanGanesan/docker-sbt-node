@@ -27,4 +27,4 @@ jobs:
         with:
           context: "{{defaultContext}}:docker"
           push: true
-          tags: mktg-ops/sbt-node:latest
+          tags: scm143/mktg-ops:latest
